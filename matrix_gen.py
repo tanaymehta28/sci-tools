@@ -22,4 +22,4 @@ class twoD:
         return array
     def rand(a,b):
         array = [[random.random() for temp_03cfg in range(a)] for temp_03cfh in range(b)]
-        return arrays
+        return array
